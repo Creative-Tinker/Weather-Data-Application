@@ -1,0 +1,13 @@
+# Target labels
+ curl
+# Source files and their labels
+/home/user1/SDI/wda/build/CMakeFiles/curl
+/home/user1/SDI/wda/build/CMakeFiles/curl.rule
+/home/user1/SDI/wda/build/CMakeFiles/curl-complete.rule
+/home/user1/SDI/wda/build/curl/src/curl-stamp/curl-build.rule
+/home/user1/SDI/wda/build/curl/src/curl-stamp/curl-configure.rule
+/home/user1/SDI/wda/build/curl/src/curl-stamp/curl-download.rule
+/home/user1/SDI/wda/build/curl/src/curl-stamp/curl-install.rule
+/home/user1/SDI/wda/build/curl/src/curl-stamp/curl-mkdir.rule
+/home/user1/SDI/wda/build/curl/src/curl-stamp/curl-patch.rule
+/home/user1/SDI/wda/build/curl/src/curl-stamp/curl-update.rule

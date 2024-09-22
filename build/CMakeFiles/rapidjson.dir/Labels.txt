@@ -1,0 +1,13 @@
+# Target labels
+ rapidjson
+# Source files and their labels
+/home/user1/SDI/wda/build/CMakeFiles/rapidjson
+/home/user1/SDI/wda/build/CMakeFiles/rapidjson.rule
+/home/user1/SDI/wda/build/CMakeFiles/rapidjson-complete.rule
+/home/user1/SDI/wda/build/rapidjson/src/rapidjson-stamp/rapidjson-build.rule
+/home/user1/SDI/wda/build/rapidjson/src/rapidjson-stamp/rapidjson-configure.rule
+/home/user1/SDI/wda/build/rapidjson/src/rapidjson-stamp/rapidjson-download.rule
+/home/user1/SDI/wda/build/rapidjson/src/rapidjson-stamp/rapidjson-install.rule
+/home/user1/SDI/wda/build/rapidjson/src/rapidjson-stamp/rapidjson-mkdir.rule
+/home/user1/SDI/wda/build/rapidjson/src/rapidjson-stamp/rapidjson-patch.rule
+/home/user1/SDI/wda/build/rapidjson/src/rapidjson-stamp/rapidjson-update.rule

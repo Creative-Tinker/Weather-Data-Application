@@ -1,0 +1,14 @@
+1 51.5 -0.1 London
+2 48.8 2.3 Paris
+3 52.5 13.4 Berlin
+4 -33.8 151.2 Sydney
+5 -41.2 174.7 Wellington
+6 35.6 139.6 Tokyo
+7 21.3 -157.8 Honolulu
+8 47.6 -122.3 Seattle
+9 34.02 -118.26 Los Angeles
+10 45.5 -73.6 Montreal
+11 38.8 -77.0 Washington, DC
+12 40.7 -74.0 New York
+13 -22.9 -43.1 Rio de Janeiro
+14 -33.9 18.4 Cape Town

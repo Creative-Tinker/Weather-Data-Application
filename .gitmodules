@@ -1,0 +1,6 @@
+[submodule "build/curl/src/curl"]
+	path = build/curl/src/curl
+	url = https://github.com/curl/curl.git
+[submodule "build/rapidjson/src/rapidjson"]
+	path = build/rapidjson/src/rapidjson
+	url = https://github.com/Tencent/rapidjson.git

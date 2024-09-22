@@ -1,0 +1,38 @@
+Start testing: Apr 26 10:50 IST
+----------------------------------------------------------
+1/1 Testing: wda-test
+1/1 Test: wda-test
+Command: "/home/user1/SDI/wda/build/wda-test"
+Directory: /home/user1/SDI/wda/build
+"wda-test" start time: Apr 26 10:50 IST
+Output:
+----------------------------------------------------------
+Test Case: Util Test 1 - Assertion "join_many_to_one_str works" passed.
+Test Case: Util Test 2 - Assertion "split works" passed.
+Test Case: CLI Test 1 - Assertion "has_option detects boolean option" passed.
+Test Case: CLI Test 2 - Assertion "has_option detects lack of boolean option" passed.
+Test Case: CLI Test 3 - Assertion "get_option finds value at end" passed.
+Test Case: CLI Test 4 - Assertion "get_option finds value at middle" passed.
+Test Case: Location Save Test 1 - Assertion "constructs and serialises" passed.
+Test Case: Location Save Test 2 - Assertion "resolve_location resolves full name" passed.
+Test Case: Location Save Test 3 - Assertion "resolve_location resolves ID" passed.
+Test Case: Location Save Test 4 - Assertion "resolve_location returns nullopt if no name match" passed.
+Test Case: Location Save Test 5 - Assertion "resolve_location returns nullopt if no id match" passed.
+Test Case: Location Save Test 6 - Assertion "list_filtered works on partials and is case-insensitive" passed.
+Test Case: Location Save Test 7 - Assertion "list_filtered works on id" passed.
+Test Case: Location Save Test 8 - Assertion "list_filtered returns empty string when no matches" passed.
+Test Case: Location Save Test 9 - Assertion "remove_location returns false when nothing removed" passed.
+Test Case: Location Save Test 10 - Assertion "remove_location doesn't remove by partial name or by invalid ID" passed.
+Test Case: Location Save Test 11 - Assertion "remove_location returns true when removing by existing id" passed.
+Test Case: Location Save Test 12 - Assertion "remove_location returns true when removing by existing full name" passed.
+Test Case: Location Save Test 13 - Assertion "remove_location removes by full name and ID" passed.
+All assertions passed.
+<end of output>
+Test time =   0.01 sec
+----------------------------------------------------------
+Test Passed.
+"wda-test" end time: Apr 26 10:50 IST
+"wda-test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 26 10:50 IST
